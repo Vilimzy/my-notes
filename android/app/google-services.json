@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "209396179097",
+    "project_id": "ecom-mona",
+    "storage_bucket": "ecom-mona.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209396179097:android:dfc99b658f54071cfa9808",
+        "android_client_info": {
+          "package_name": "com.example.homeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209396179097-6i673cs73q77tqdourb1tgtsoei75ddn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIjcBbIxOF7v8mQC6InzuwntZy4u0sVP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209396179097-6i673cs73q77tqdourb1tgtsoei75ddn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209396179097:android:0a9fd2721aba2450fa9808",
+        "android_client_info": {
+          "package_name": "com.myplate.mynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209396179097-6i673cs73q77tqdourb1tgtsoei75ddn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIjcBbIxOF7v8mQC6InzuwntZy4u0sVP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209396179097-6i673cs73q77tqdourb1tgtsoei75ddn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
